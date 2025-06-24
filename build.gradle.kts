@@ -4,7 +4,7 @@ val ktlint by configurations.creating
 
 plugins {
     kotlin("jvm") version "2.1.21"
-    id("com.gradleup.shadow") version "8.3.6"
+    id("com.gradleup.shadow") version "8.3.7"
 }
 
 group = "me.quantiom"
