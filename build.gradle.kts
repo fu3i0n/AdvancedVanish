@@ -39,7 +39,7 @@ val versions =
         "protocolLib" to "5.3.0",
         "placeholderApi" to "2.11.6",
         "dynmap" to "3.7-beta-6",
-        "squaremap" to "1.3.6",
+        "squaremap" to "1.3.7",
         "playerParticles" to "8.9",
         "jedis" to "6.0.0",
         "exposed" to "0.61.0",
