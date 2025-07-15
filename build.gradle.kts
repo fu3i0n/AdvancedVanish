@@ -48,7 +48,7 @@ val versions =
         "libsdisguises" to "10.0.44",
         "groupmanager" to "3.2",
         "luckperms" to "5.5",
-        "ktlint" to "1.6.0",
+        "ktlint" to "1.7.0",
     )
 
 dependencies {
